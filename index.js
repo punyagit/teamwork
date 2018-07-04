@@ -28,4 +28,8 @@
 
 /// Hey guys be polite and nice
 
+<<<<<<< HEAD
 /// No 
+=======
+/// guys this is your last chance 
+>>>>>>> upstream/master
