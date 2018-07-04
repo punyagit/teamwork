@@ -1,7 +1,7 @@
-// guys just for practice write some code or line and ask a pull request
 
 //Hi 1st update yo
 
+<<<<<<< HEAD
 
 // 2nd update
 
@@ -22,3 +22,6 @@
     //   Please...            \ |  \ |        \ |  \ |
     //                      __| |__| |      __| |__| |
     //                      |___||___|      |___||___|
+=======
+//Welcome everybody
+>>>>>>> 7da011d070ee044413a39d4e86399028fe205930
