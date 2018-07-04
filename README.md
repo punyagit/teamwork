@@ -2,7 +2,7 @@
 ### Purpose of this project is to learn to collaborate between team.
 
 **How to Start**
-  * Fork the project to yourr github
+  * Fork the project to your github
   * Clone project from your forked repo
   * If you do "git remote -v" you can see its pointing to your repo only.
   * So to make a link to original one git remote add upstream and link so " git remote add upstream https://github.com/Thebeleiver1/teamwork.git"
