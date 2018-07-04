@@ -7,3 +7,7 @@ add.sumAll([1, 4]);
 
 
 // go to sum.js to implement function
+
+
+
+

@@ -9,7 +9,7 @@
   * If you do git remote -v now you can see link to original one.
   * To merge to local be in your local master branch and "git merge upstream/master"
 
-  * Push to your local one and ask for pull request to merge the code to original project.
+  * Push to your local one and form github page ask for pull request to merge the code to original project.
 
 
 
@@ -29,5 +29,6 @@
 
 
  ### Contributing
+ * feel free to add any suggestion/ steps 
  * run npm install to install dependencies to your local machine
  * npm test to see what test are failinng and just implement if required.
