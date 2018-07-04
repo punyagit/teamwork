@@ -1,0 +1,22 @@
+{
+  "name": "team-work",
+  "version": "1.0.0",
+  "description": "This is projection to work as a team",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thebeleiver1/teamwork.git"
+  },
+  "author": "hackScript (boys)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thebeleiver1/teamwork/issues"
+  },
+  "homepage": "https://github.com/Thebeleiver1/teamwork#readme",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
