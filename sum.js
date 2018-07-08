@@ -2,7 +2,9 @@
 // If you run npm test you will see some test is failed
 // so request team to implement it
 function add(a,b){
-    return a + b
+    // check and b is number or not
+        return a + b
+    
 }
 
 function sumAll(arr){
