@@ -2,7 +2,7 @@
 // If you run npm test you will see some test is failed
 // so request team to implement it
 function add(a,b){
-    // check and b is number or not
+    // check and b is number or not h
         return a + b
     
 }
