@@ -5,7 +5,7 @@
   * Fork the project to your github
   * Clone project from your forked repo
   * If you do "git remote -v" you can see its pointing to your repo only.
-  * So to make a link to original one git remote add upstream and link so " git remote add upstream https://github.com/Thebeleiver1/teamwork.git" (just need to pint for one time in the begining)
+  * So to make a link to original one git remote add upstream and link so " git remote add upstream https://github.com/Thebeleiver1/teamwork.git" (just need to point for one time in the begining)
   * If you do git remote -v now you can see link to original one.
   * git fetch upstream to fetch to your local repo 
   * To merge to local be in your local master branch and "git merge upstream/master"
