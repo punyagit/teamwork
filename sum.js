@@ -8,5 +8,6 @@ function sumAll(arr) {
   // Array should only contain two number [1,4]
   // this function will count between two number 1 to 4  "1+2+3+4 = 10"
 }
+function aal()
 
 module.exports = { add, sumAll };
