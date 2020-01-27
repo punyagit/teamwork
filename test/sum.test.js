@@ -21,4 +21,10 @@ test('adds 1 + 2 to equal 3', () => {
     expect(sum.sumAll(4, 1)).toBe(10);
   });
 
+  test('[3, 7] should return 25', () => {
+    expect(sum.sumAll(4, 1)).toBe(25);
+  });
+
+
+
   
