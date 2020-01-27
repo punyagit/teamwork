@@ -10,3 +10,5 @@ function sumAll(arr) {
 }
 
 module.exports = { add, sumAll };
+console.log('3');
+
